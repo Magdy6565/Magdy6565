@@ -13,7 +13,7 @@
   
 - Problem solver & Tech Enthusiast
 
-- I’m currently learning Deep Learning **Deep Learning Specialization (Andrew Ng)**
+- I’m currently learning Computer Vision
 
 
 - 📫 How to reach me **youssefmoheyaldeen@gmail.com**
