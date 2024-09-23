@@ -7,7 +7,7 @@
 
 - Computer Engineering Student Majoring In Artificial Intelligence.
 
-- Experience in Machine Learning, Deep Learning, Natural Language Proccessing,Frontend and Backend.
+- Experience in Machine Learning, Deep Learning, Natural Language Proccessing and Backend.
     
 - Passionate about Artificial Intelligence, Data Science.
   
@@ -22,8 +22,8 @@
 
 <h3 align="left">Platforms</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/youssef-magdy-3aa389282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad el dine ahmed" height="60" width="60" /></a>
-<a href="https://www.hackerrank.com/profile/youssefmigzo555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@saadeldine460" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/youssef-magdy-3aa389282/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="YoussefMagdy55" height="60" width="60" /></a>
+<a href="https://leetcode.com/u/youssefmigzo555/" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MostafaGalal1&show_icons=true&include_all_commits=true&count_private=true&text_color=FFA718&theme=transparent&show_icons=true" alt="@YoussefMagdy55" height="60" width="60" /></a>
 
 </p>
 
