@@ -23,7 +23,7 @@
 <h3 align="left">Platforms</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/youssef-magdy-3aa389282/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="YoussefMagdy55" height="60" width="60" /></a>
-<a href="https://leetcode.com/u/youssefmigzo555/" target="blank"><img align="center" src="src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"" alt="@YoussefMagdy55" height="60" width="60" /></a>
+<a href="https://leetcode.com/u/youssefmigzo555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@YoussefMagdy55" height="60" width="60" /></a>
 
 </p>
 
