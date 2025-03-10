@@ -9,13 +9,6 @@
 
 - Experience in Machine Learning, Deep Learning, Natural Language Proccessing and Backend.
     
-- Passionate about Artificial Intelligence, Data Science.
-  
-- Problem solver & Tech Enthusiast
-
-- I’m currently learning Computer Vision
-
-
 - 📫 How to reach me **youssefmoheyaldeen@gmail.com**
 
 
