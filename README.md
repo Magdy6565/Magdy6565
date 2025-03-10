@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&color=0065F7&background=FFFFFF00&center=true&repeat=false&random=false&width=700&lines=Youssef+Magdy)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&color=0065F7&background=FFFFFF00&center=true&repeat=false&random=false&width=700&lines=Student+At+Faculty+Of+Engineering)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&color=0065F7&background=FFFFFF00&center=true&repeat=false&random=false&width=700&lines=Alexandria+University)](https://git.io/typing-svg)
 
 
 - Computer Engineering Student Majoring In Artificial Intelligence.
